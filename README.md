@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on foss job search solution for tier-2 & tier-3  cities in India
-- 🌱 I’m currently learning React Native, Golang & Rust
-- 👯 I’m looking to collaborate on any open source project in it's initial phase
+- 🔭 I’m currently focused on my premed exam and graduation degree
+- 🌱 I’m currently learning nothing and realised I'm not interested in nodejs no matter how long I have tried
+- 👯 I’m working on information security and related projects only
